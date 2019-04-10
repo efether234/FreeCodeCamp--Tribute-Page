@@ -60,14 +60,6 @@ footer {
     flex-direction: column;
 }
 
-.sr-only {
-    position: absolute;
-    left: -10000px;
-    height: 1px;
-    width: 1px;
-    overflow: hidden;
-}
-
 .main-image {
     border-radius: 50%;
     box-shadow: .2rem .1rem .8rem .5rem rgba(0,0,0,.1);
